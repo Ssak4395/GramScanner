@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bar_Code_Scanner</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main_v_iew">FullscreenActivity</string>
+    <string name="title_activity_add_item_activity">FullscreenActivity</string>
+    <string name="title_activity_scanner">FullscreenActivity</string>
+    <string name="title_activity_stock_item_found">FullscreenActivity</string>
+    <string name="title_activity_stock_item_found_non">FullscreenActivity</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="title_activity_on_item_click">FullscreenActivity</string>
+    <string name="title_activity_test">FullscreenActivity</string>
+</resources>
